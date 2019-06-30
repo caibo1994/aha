@@ -1,0 +1,1 @@
+console.log('黄头发');
