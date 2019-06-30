@@ -13,3 +13,5 @@ var str4 = '你来打我呀'
 console.log('什么情况');
 
 console.log('原来是这样')
+
+console.log('这是常规操作')
